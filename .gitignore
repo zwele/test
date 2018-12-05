@@ -1,5 +1,5 @@
 .idea/
 test.iml
-target/
+target/*.class
 *.log
 .DS_Store
